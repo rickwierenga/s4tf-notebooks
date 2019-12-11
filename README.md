@@ -2,6 +2,8 @@
 
 Notebooks demonstrating Swift for TensorFlow projects.
 
+Currently supports 0.6.
+
 ## Installation
 
 Check out [google/swift-jupyter](https://github.com/google/swift-jupyter). Or use Colab.
